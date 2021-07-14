@@ -8,7 +8,3 @@ I am a keen programmer and I have found not only this has been a hobby but I wou
 
 I am currently a Broadband Tech advisor and have found that this has given me a really good knowledge base; however, I am looking for a challenge that suits my abilities. I would really appreciate an opportunity like this.
 I am aware I don’t have all of the qualifications or experience requested though, I am willing to attend extra courses in my own time, where I can demonstrate my creativity and strong work ethics.
-# DanieleFusari
-# DanieleFusari
-# DanieleFusari
-# DanieleFusari
