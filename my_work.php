@@ -26,7 +26,7 @@ $my_work = [
     'logo' => "/images/df.png",
     'website name' => 'Powered_By_Fusari',
     'text' => 'Created my own Framework to stadaddise my projects. Using the templating engine Twig. ',
-    'complete date' => 'Started 08th July 2021  -  '
+    'complete date' => 'Started 08th July 2021  '
   ],
   [
     'link' => "https://www.raistudios.co.uk/",
@@ -40,7 +40,7 @@ $my_work = [
     'logo' => "/images/cu4.png",
     'website name' => 'cu4study',
     'text' => 'Coventry University dyslexia support department has asked for a page where students can book for private dyslexia support',
-    'complete date' => '( To be completed by September )'
+    'complete date' => '( To be completed by October )'
   ]
 ];
 
