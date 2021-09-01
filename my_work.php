@@ -36,7 +36,7 @@ $my_work = [
     'complete date' => '( Ongoing )'
   ],
   [
-    'link' => "cu4study.co.uk",
+    'link' => "https://www.cu4study.co.uk",
     'logo' => "/images/cu4.png",
     'website name' => 'cu4study',
     'text' => 'Coventry University dyslexia support department has asked for a page where students can book for private dyslexia support',

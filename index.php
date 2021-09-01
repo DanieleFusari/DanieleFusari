@@ -62,7 +62,7 @@
 					<h1 class="tm-home-title"><strong>Daniele Fusari</strong></h1>
 					<h2 class="tm-home-subtitle">Software Developer </h2>
 					<p>I'm a <strong>self taught software developer</strong> from Coventry.  </br> I'm looking for an trainee software posistion to further my web developing skills.</p>
-					<a href="#work" class="btn btn-default smoothScroll tm-view-more-btn">Let's Begin</a>
+					<a href="#work" class="btn btn-default smoothScroll tm-view-more-btn">My Work</a>
 				</div>
 				<div class="col-md-2 col-sm-1"></div>
 			</div>
