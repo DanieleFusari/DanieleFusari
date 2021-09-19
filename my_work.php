@@ -1,14 +1,14 @@
 <?php
 $my_work = [
   [
-    'link' => "/smudge/index.html",
+    'link' => "https://github.com/DanieleFusari/smudge",
     'logo' => "/smudge/img/logo/smudge.png",
     'website name' => 'Smudge Natural Skincare',
     'text' => 'After completing the Console Foundations, Version Control, Git & a design courses, I put together a small project website.',
     'complete date' => '(12th February 2019)'
   ],
   [
-    'link' => "https://mrchefcatering.co.uk/",
+    'link' => "https://github.com/DanieleFusari/Mr_Chef",
     'logo' => "/images/Mr_Chef1.png",
     'website name' => 'Mr Chef',
     'text' => 'First project after finishing my Object-Oriented PHP & Intermediate PHP.',
@@ -22,7 +22,7 @@ $my_work = [
     'complete date' => '(Completed 25th May 2020)'
   ],
   [
-    'link' => "https://www.raistudios.co.uk/",
+    'link' => "https://github.com/DanieleFusari/Rai_Studios",
     'logo' => "/images/raiStudio.jpg",
     'website name' => 'RaiStudios',
     'text' => 'For a Create & Craft designer to display their hand made cards.  ',

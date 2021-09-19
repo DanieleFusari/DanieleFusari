@@ -1,5 +1,11 @@
+<?php
+// Turn off all error reporting error_reporting(0) ;
+error_reporting(0);
+ini_set('display_errors', 0);
+ini_set('html_errors', 0);
+?>
 <!DOCTYPE html>
-
+<!-- updates -->
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -198,24 +204,24 @@
 						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div>
 					</div>
 
-					<h4 class="tm-progress-label">PHP / Laravel <small class="progress-percent-small">75%</small></h4>
+					<h4 class="tm-progress-label">PHP <small class="progress-percent-small">85%</small></h4>
 					<div class="progress tm-progress">
-						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div>
+						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
 					</div>
 
-					<h4 class="tm-progress-label">SQL <small class="progress-percent-small">70%</small></h4>
+					<h4 class="tm-progress-label">JavaScript <small class="progress-percent-small">70%</small></h4>
+					<div class="progress tm-progress">
+						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
+					</div>
+
+					<h4 class="tm-progress-label">SQL <small class="progress-percent-small">65%</small></h4>
 					<div class="progress tm-progress">
 						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"></div>
 					</div>
 
-					<h4 class="tm-progress-label">JavaScript <small class="progress-percent-small">65%</small></h4>
+					<h4 class="tm-progress-label">CSS <small class="progress-percent-small">65%</small></h4>
 					<div class="progress tm-progress">
 						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"></div>
-					</div>
-
-					<h4 class="tm-progress-label">CSS <small class="progress-percent-small">50%</small></h4>
-					<div class="progress tm-progress">
-						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div>
 					</div>
 
 					<h4 class="tm-progress-label">Python <small class="progress-percent-small">20%</small></h4>
