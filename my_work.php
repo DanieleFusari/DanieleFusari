@@ -16,31 +16,48 @@ $my_work = [
   ],
   [
     'link' => "https://github.com/DanieleFusari/invoices",
-    'logo' => "/images/Mr_Chef.jpg",
+    'logo' => "/images/Mr_Chef1.png",
     'website name' => 'Mr Chef Invoices',
     'text' => 'Back office system to manage Mr Chef invoices. PHP and JavaScript',
     'complete date' => '(Completed 25th May 2020)'
-  ],
-  [
-    'link' => "https://github.com/DanieleFusari/Powered_By_Fusari",
-    'logo' => "/images/df.png",
-    'website name' => 'Powered_By_Fusari',
-    'text' => 'Working on my own Framework to stadaddise my projects. Using the templating engine Twig. ',
-    'complete date' => 'Started 08th July 2021'
   ],
   [
     'link' => "https://www.raistudios.co.uk/",
     'logo' => "/images/raiStudio.jpg",
     'website name' => 'RaiStudios',
     'text' => 'For a Create & Craft designer to display their hand made cards.  ',
-    'complete date' => '( Ongoing )'
+    'complete date' => 'Completed 27 August 2020'
+  ],
+  [
+    'link' => "https://github.com/DanieleFusari/Powered_By_Fusari",
+    'logo' => "/images/df.png",
+    'website name' => 'Powered_By_Fusari',
+    'text' => 'Standardise Framework for projects. Using Twig. ',
+    'complete date' => 'V3.0'
+  ]
+];
+
+$clients = [
+  [
+    'link' => "https://mrchefcatering.co.uk/",
+    'logo' => "/images/Mr_Chef.jpg",
+    'website name' => 'Mr Chef',
+    'text' => 'Mr Chef catering the Professional Caterers With over 25 years experience and expertise, here at Mr. Chef catering we pride ourselves on our first class reputation as a provider of home-cooked food with an excellent service.',
+    'complete date' => '(Live 1st October 2021)'
+  ],
+  [
+    'link' => "https://www.raistudios.co.uk/",
+    'logo' => "/images/raiStudio.jpg",
+    'website name' => 'RaiStudios',
+    'text' => 'Our cards are all theme made, and not event tailored. We wanted the cards to fit the person and not the event. Pick the theme to fit the person.',
+    'complete date' => 'Payment system to be finalised '
   ],
   [
     'link' => "https://www.cu4study.co.uk",
     'logo' => "/images/cu4.png",
     'website name' => 'cu4study',
     'text' => 'Coventry University dyslexia support department has asked for a page where students can book for private dyslexia support',
-    'complete date' => '( To be completed by October )'
+    'complete date' => '(To be completed by new year)'
   ]
 ];
 

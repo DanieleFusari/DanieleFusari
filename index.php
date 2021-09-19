@@ -36,6 +36,7 @@
 				<ul class="nav navbar-nav navbar-right main-navigation text-uppercase">
 					<li><a href="#home" class="smoothScroll">Home</a></li>
 					<li><a href="#work" class="smoothScroll">My Work</a></li>
+					<li><a href="#clients" class="smoothScroll">Clients</a></li>
 					<li><a href="#portfolio" class="smoothScroll">Portfolio</a></li>
 					<li><a href="#resume" class="smoothScroll">Resume</a></li>
 					<li><a href="#about" class="smoothScroll">About</a></li>
@@ -76,7 +77,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-offset-1 col-md-11">
-					<h2 class="title">My <strong>Work</strong></h2>
+					<h2 class="title">Previous <strong>Work</strong></h2>
 				</div>
 				<?php foreach ($my_work as $work) { ?>
 				<a target="_blank" href="<?=$work['link'] ?>">
@@ -98,6 +99,34 @@
 		</div>
 	</section>
 	<!-- END work -->
+
+<!-- Live Clients -->
+	<section id="clients" class="tm-padding-top-bottom-100">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-offset-1 col-md-11">
+					<h2 class="title">Live <strong>Clients</strong></h2>
+				</div>
+				<?php foreach ($clients as $work) { ?>
+				<a target="_blank" href="<?=$work['link'] ?>">
+					<div class="col-md-4 col-sm-4">
+						<div class="work-wrapper">
+							<div class="img_wrap">
+								<img class="my-work-logo" src=<?=$work['logo'] ?> alt=<?=$work['website name']?>>
+							</div>
+							<h3 class="text-uppercase tm-work-h3"><?=$work['website name']?></h3>
+							<hr>
+							<p><?=$work['text']?></br>
+								<strong><?=$work['complete date']?></strong>
+							</p>
+						</div>
+					</div>
+				</a>
+				<?php } ?>
+			</div>
+		</div>
+	</section>
+	<!-- END Clients -->
 
 	<!-- START PORTFOLIO -->
 	<section id="portfolio" class="tm-portfolio">
@@ -289,7 +318,7 @@
 				</div>
 				<div class="col-md-1 col-sm-1"></div>
 				<div class="col-md-12 col-sm-12">
-					<p>Copyright &copy; 2021 @DanieleFusari
+					<p>Copyright &copy; 2021 @DanieleFusari </p>
 				</div>
 			</div>
 		</div>
