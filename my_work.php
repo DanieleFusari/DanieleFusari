@@ -1,7 +1,7 @@
 <?php
 $my_work = [
   [
-    'link' => "/smudge/index.html",
+    'link' => "https://github.com/DanieleFusari/smudge",
     'logo' => "/smudge/img/logo/smudge.png",
     'website name' => 'Smudge Natural Skincare',
     'text' => 'After completing the Console Foundations, Version Control, Git & a design courses, I put together a small project website.',
