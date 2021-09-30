@@ -15,7 +15,7 @@ ini_set('html_errors', 0);
 	<meta name="description" content="">
 	<!-- SITE TITLE -->
 	<title>Daniele Fusari</title>
-
+	<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 	<!-- STYLESHEETS -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
