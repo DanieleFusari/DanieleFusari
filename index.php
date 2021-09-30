@@ -97,6 +97,7 @@ ini_set('html_errors', 0);
 							<p><?=$work['text']?></br>
 								<strong><?=$work['complete date']?></strong>
 							</p>
+							<a href="<?= $work['git'] ?>">Git</a>
 						</div>
 					</div>
 				</a>
@@ -105,34 +106,6 @@ ini_set('html_errors', 0);
 		</div>
 	</section>
 	<!-- END work -->
-
-<!-- Live Clients -->
-	<section id="clients" class="tm-padding-top-bottom-100">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-offset-1 col-md-11">
-					<h2 class="title">Live <strong>Clients</strong></h2>
-				</div>
-				<?php foreach ($clients as $work) { ?>
-				<a target="_blank" href="<?=$work['link'] ?>">
-					<div class="col-md-4 col-sm-4">
-						<div class="work-wrapper">
-							<div class="img_wrap">
-								<img class="my-work-logo" src=<?=$work['logo'] ?> alt=<?=$work['website name']?>>
-							</div>
-							<h3 class="text-uppercase tm-work-h3"><?=$work['website name']?></h3>
-							<hr>
-							<p><?=$work['text']?></br>
-								<strong><?=$work['complete date']?></strong>
-							</p>
-						</div>
-					</div>
-				</a>
-				<?php } ?>
-			</div>
-		</div>
-	</section>
-	<!-- END Clients -->
 
 	<!-- START PORTFOLIO -->
 	<section id="portfolio" class="tm-portfolio">

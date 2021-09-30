@@ -1,8 +1,9 @@
 <?php
 $my_work = [
   [
-    'link' => "https://github.com/DanieleFusari/smudge",
-    'logo' => "/smudge/img/logo/smudge.png",
+    'link' => "http://smudge.fusari.co.uk/",
+    'git' => "https://github.com/DanieleFusari/smudge",
+    'logo' => "/images/smudge.png",
     'website name' => 'Smudge Natural Skincare',
     'text' => 'After completing the Console Foundations, Version Control, Git & a design courses, I put together a small project website.',
     'complete date' => '(12th February 2019)'
@@ -34,10 +35,7 @@ $my_work = [
     'website name' => 'Powered_By_Fusari',
     'text' => 'Standardise Framework for projects. Using Twig. ',
     'complete date' => 'V3.0'
-  ]
-];
-
-$clients = [
+  ],
   [
     'link' => "https://mrchefcatering.co.uk/",
     'logo' => "/images/Mr_Chef.jpg",
