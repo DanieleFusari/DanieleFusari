@@ -2,7 +2,6 @@
 $my_work = [
   [
     'link' => "http://smudge.fusari.co.uk/",
-    'git' => "https://github.com/DanieleFusari/smudge",
     'logo' => "/images/smudge.png",
     'website name' => 'Smudge Natural Skincare',
     'text' => 'After completing the Console Foundations, Version Control, Git & a design courses, I put together a small project website.',
@@ -23,28 +22,21 @@ $my_work = [
     'complete date' => '(Completed 25th May 2020)'
   ],
   [
-    'link' => "https://github.com/DanieleFusari/Rai_Studios",
-    'logo' => "/images/raiStudio.jpg",
-    'website name' => 'RaiStudios',
-    'text' => 'For a Create & Craft designer to display their hand made cards.  ',
-    'complete date' => 'Completed 27 August 2020'
-  ],
-  [
     'link' => "https://github.com/DanieleFusari/Powered_By_Fusari",
     'logo' => "/images/df.png",
     'website name' => 'Powered_By_Fusari',
-    'text' => 'Standardise Framework for projects. Using Twig. ',
+    'text' => 'Standardise Framework for projects. Using Twig.',
     'complete date' => 'V3.0'
   ],
   [
-    'link' => "https://mrchefcatering.co.uk/",
+    'link' => "http://mrchef.fusari.co.uk/",
     'logo' => "/images/Mr_Chef.jpg",
     'website name' => 'Mr Chef',
     'text' => 'Mr Chef catering the Professional Caterers With over 25 years experience and expertise, here at Mr. Chef catering we pride ourselves on our first class reputation as a provider of home-cooked food with an excellent service.',
-    'complete date' => '(Live 1st October 2021)'
+    'complete date' => 'A revamp of the website but due to Covid never went live.'
   ],
   [
-    'link' => "https://www.raistudios.co.uk/",
+    'link' => "http://raiStudios.fusari.co.uk/",
     'logo' => "/images/raiStudio.jpg",
     'website name' => 'RaiStudios',
     'text' => 'Our cards are all theme made, and not event tailored. We wanted the cards to fit the person and not the event. Pick the theme to fit the person.',

@@ -97,7 +97,6 @@ ini_set('html_errors', 0);
 							<p><?=$work['text']?></br>
 								<strong><?=$work['complete date']?></strong>
 							</p>
-							<a href="<?= $work['git'] ?>">Git</a>
 						</div>
 					</div>
 				</a>
