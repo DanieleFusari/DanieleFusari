@@ -36,14 +36,14 @@ $my_work = [
     'complete date' => 'A revamp of the website but due to Covid never went live.'
   ],
   [
-    'link' => "http://raiStudios.fusari.co.uk/",
+    'link' => "http://raiStudios.co.uk/",
     'logo' => "/images/raiStudio.jpg",
     'website name' => 'RaiStudios',
     'text' => 'Our cards are all theme made, and not event tailored. We wanted the cards to fit the person and not the event. Pick the theme to fit the person.',
     'complete date' => 'Payment system to be finalised '
   ],
   [
-    'link' => "https://www.cu4study.co.uk",
+    'link' => "http://www.cu4study.co.uk",
     'logo' => "/images/cu4.png",
     'website name' => 'cu4study',
     'text' => 'Coventry University dyslexia support department has asked for a page where students can book for private dyslexia support',
