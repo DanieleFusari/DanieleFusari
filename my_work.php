@@ -36,7 +36,7 @@ $my_work = [
     'complete date' => 'A revamp of the website but due to Covid never went live.'
   ],
   [
-    'link' => "http://raiStudios.co.uk/",
+    'link' => "https://raiStudios.co.uk/",
     'logo' => "/images/raiStudio.jpg",
     'website name' => 'RaiStudios',
     'text' => 'Our cards are all theme made, and not event tailored. We wanted the cards to fit the person and not the event. Pick the theme to fit the person.',
