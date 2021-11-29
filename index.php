@@ -22,6 +22,15 @@ ini_set('html_errors', 0);
 	<link rel="stylesheet" href="css/templatemo-style.css">
 	<link href='//fonts.googleapis.com/css?family=Raleway:400,300,600,700' rel='stylesheet' type='text/css'>
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-RCH259RF50"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-RCH259RF50');
+	</script>
 </head>
 
 <body data-spy="scroll" data-target="#rock-navigation">
