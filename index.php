@@ -295,8 +295,8 @@ ini_set('html_errors', 0);
 							<input class="form-control" name="email" type="email" placeholder="Your Email">
 						</div>
 						<div class="col-md-12 col-sm-12">
-							<input class="form-control" name="subject"  type="text" placeholder="Your Subject">
-							<textarea class="form-control" name="message" placeholder="Your Message" rows="6"></textarea>
+							<input class="form-control" name="subject"  type="text" placeholder="Subject">
+							<textarea class="form-control" name="message" placeholder="Message" rows="6"></textarea>
 						</div>
 						<div class="col-md-offset-2 col-md-8 col-sm-offset-2 col-sm-8">
 							<input class="form-control" type="submit" value="SHOOT">
@@ -305,7 +305,7 @@ ini_set('html_errors', 0);
 				</div>
 				<div class="col-md-1 col-sm-1"></div>
 				<div class="col-md-12 col-sm-12">
-					<p>Copyright &copy; 2021 @DanieleFusari </p>
+					<p>Copyright &copy; 2021 @DanieleFusari</p>
 				</div>
 			</div>
 		</div>
