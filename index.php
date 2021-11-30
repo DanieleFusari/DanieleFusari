@@ -174,7 +174,7 @@ ini_set('html_errors', 0);
 					<p><span class="tm-info-label">Email</span><a href="mailto:Daniele@Fusari.co.uk">Daniele@Fusari.co.uk</a></p>
 					<p><span class="tm-info-label">github</span> <a target="_blank" href="https://github.com/DanieleFusari" class="tm-red-text">github.com/DanieleFusari</a></p>
 					<p><span class="tm-info-label">Courses </span> <a target="_blank" href="https://teamtreehouse.com/danielefusaridoughty" class="tm-red-text">TeamTreeHouse</a></p>
-					<p><span class="tm-info-label">CV</span> <a target="_blank" href="cv.pdf" class="tm-red-text">View</a></p>
+					<p><span class="tm-info-label">CV</span> <a href="/#contact" class="tm-red-text">Available on request</a></p>
 				</div>
 
 				<div class="col-md-6 col-sm-6">
