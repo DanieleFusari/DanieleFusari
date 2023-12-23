@@ -170,9 +170,6 @@ ini_set('html_errors', 0);
 					<p><span class="tm-info-label">Age</span>39</p>
 					<p><span class="tm-info-label">Languages</span>English / BSL</p>
 					<p><span class="tm-info-label">Address</span>Coventry UK</p>
-					<p><span class="tm-info-label">Phone</span><a href="tel:07449998388">07449998388</a></p>
-					<p><span class="tm-info-label">Email</span><a href="mailto:Daniele@Fusari.co.uk">Daniele@Fusari.co.uk</a></p>
-					<p><span class="tm-info-label">github</span> <a target="_blank" href="https://github.com/DanieleFusari" class="tm-red-text">github.com/DanieleFusari</a></p>
 					<p><span class="tm-info-label">Courses </span> <a target="_blank" href="https://teamtreehouse.com/danielefusaridoughty" class="tm-red-text">TeamTreeHouse</a></p>
 					<p><span class="tm-info-label">CV</span> <a href="/#contact" class="tm-red-text">Available on request</a></p>
 				</div>
@@ -180,19 +177,15 @@ ini_set('html_errors', 0);
 				<div class="col-md-6 col-sm-6">
 					<h2 class="title">Languages</h2>
 
-					<h4 class="tm-progress-label">HTML5 <small class="progress-percent-small">95%</small></h4>
+					
+					<h4 class="tm-progress-label">JavaScript / Angular<small class="progress-percent-small">90%</small></h4>
 					<div class="progress tm-progress">
-						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div>
+						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
 					</div>
 
 					<h4 class="tm-progress-label">PHP <small class="progress-percent-small">85%</small></h4>
 					<div class="progress tm-progress">
 						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
-					</div>
-
-					<h4 class="tm-progress-label">JavaScript <small class="progress-percent-small">70%</small></h4>
-					<div class="progress tm-progress">
-						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
 					</div>
 
 					<h4 class="tm-progress-label">SQL <small class="progress-percent-small">65%</small></h4>
@@ -204,11 +197,7 @@ ini_set('html_errors', 0);
 					<div class="progress tm-progress">
 						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"></div>
 					</div>
-
-					<h4 class="tm-progress-label">Python <small class="progress-percent-small">20%</small></h4>
-					<div class="progress tm-progress">
-						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 20%;"></div>
-					</div>
+					
 				</div>
 			</div>
 		</div>
@@ -305,7 +294,7 @@ ini_set('html_errors', 0);
 				</div>
 				<div class="col-md-1 col-sm-1"></div>
 				<div class="col-md-12 col-sm-12">
-					<p>Copyright &copy; 2021 @DanieleFusari</p>
+					<p>Copyright &copy; 2024 @DanieleFusari</p>
 				</div>
 			</div>
 		</div>
