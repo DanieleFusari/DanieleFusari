@@ -40,14 +40,14 @@ $my_work = [
     'logo' => "/images/raiStudio.jpg",
     'website name' => 'RaiStudios',
     'text' => 'Our cards are all theme made, and not event tailored. We wanted the cards to fit the person and not the event. Pick the theme to fit the person.',
-    'complete date' => 'Payment system to be finalised '
+    'complete date' => '2022'
   ],
   [
     'link' => "http://www.cu4study.co.uk",
     'logo' => "/images/cu4.png",
     'website name' => 'cu4study',
     'text' => 'Coventry University dyslexia support department has asked for a page where students can book for private dyslexia support',
-    'complete date' => '(To be completed by new year)'
+    'complete date' => '-'
   ]
 ];
 
