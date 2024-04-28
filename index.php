@@ -20,6 +20,12 @@ ini_set('html_errors', 0);
 </head>
 
 <body>
+		<!-- START HOME -->
+		<?php if (isset($_GET['sent'])) { ?>
+		<div class="banner none">
+			<p>Thank you! Your Message has been sent</p>
+		</div>
+	<?php 	} ?>
 	<section id="home" class="templatemo-home">
 		<div class="container">
 			<div class="row">
@@ -29,18 +35,11 @@ ini_set('html_errors', 0);
 					<h1 class="tm-home-title"><strong>Daniele Fusari</strong></h1>
 					<h2 class="tm-home-subtitle">Software Developer </h2>
 					<p>I'm a self taught software developer</p>
-					<a href="#work" class="btn btn-default smoothScroll tm-view-more-btn">My Work</a>
 				</div>
 				<div class="col-md-2 col-sm-1"></div>
 			</div>
 		</div>
 	</section>
-	<!-- START HOME -->
-	<?php if (isset($_GET['sent'])) { ?>
-		<div class="banner none">
-			<p>Thank you! Your Message has been sent</p>
-		</div>
-	<?php 	} ?>
 
 	<!-- START CONTACT -->
 	<section id="contact" class="tm-contact">
