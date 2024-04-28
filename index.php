@@ -12,6 +12,11 @@ ini_set('html_errors', 0);
 	<meta charset="utf-8">
 	<title>Daniele Fusari</title>
 	<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/templatemo-style.css">
+	<link href='//fonts.googleapis.com/css?family=Raleway:400,300,600,700' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
